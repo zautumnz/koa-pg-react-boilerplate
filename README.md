@@ -12,8 +12,6 @@ don't think Node is necessarily the best choice for web servers (not the worst
 either, at least it's not terribly slow like Ruby or stuck in 1995 like Python).
 Make your own choices.
 
-[![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB)
-
 Node client/server service template with:
 * Typescript
 * Koa
